@@ -32,7 +32,21 @@ section {
 h2 {
     color: #0d1b2a;
 }
-
+<section id="recursos">
+    <h2>Recursos</h2>
+    <p>Aquí encontrarás artículos, guías y herramientas para ayudarte en tu camino como Project Manager.</p>
+    <ul>
+        <li>Lo mínimo necesario para gestionar un proyecto</li>
+        <li>Cómo piensa un Project Manager</li>
+        <li>Checklist básico para iniciar cualquier proyecto</li>
+        <li>Cómo liderar reuniones sin perder el foco</li>
+        <li>Gestión del alcance para principiantes</li>
+    </ul>
+</section>
+<section id="sobre">
+    <h2>Sobre mí</h2>
+    <p>Soy Piero Anticona, Project Manager con experiencia liderando proyectos reales en entornos complejos. TPMJ nace de mi deseo de compartir lo que he aprendido en el terreno: lo que funciona, lo que no, y lo que realmente importa cuando lideras un proyecto.</p>
+</section>
 footer {
     text-align: center;
     padding: 20px;
